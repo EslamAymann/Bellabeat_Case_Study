@@ -1,7 +1,16 @@
+FitBit-Fitness-Tracker-Data
 
-INTRODUCTION
+Google Analytics Capstone for Bellabeat Case Study 2- Python Analysis
+🍃 Bellabeat Data Analysis 📊
 
-Bellabeat is a high-tech manufacturer of health-focused products for women such as Bellabeat app, Leaf, Time, Spring, and Bellabeat membership. It was founded in 2013 by Urška Sršen and Sando Mur. The company is quite successful, with lots of potential to become a larger player in the global smart device industry. The founders are of the view that analyzing smart device fitness data could help unlock new growth opportunities for the company.
+Unlocking New Growth Opportunities through Smart Device Data Insights
+🌟 Project Overview
 
-In this case study, I will follow the six steps of the data analysis process: ask, prepare, process, analyze, share, and act, to break down how I analyzed the FitBit fitness Tracker Data in order to gain some insights that could be beneficial to Bellabeat.
+Bellabeat, a high-tech manufacturer of health-focused products for women, seeks to analyze smart device data to explore new growth opportunities. This project, aimed at analyzing data related to a specific product, will unearth insights into consumer behaviors and preferences to steer Bellabeat's marketing strategy in a data-driven direction.
+🚀 Background
+🌱 Bellabeat
 
+A flourishing company with the potential to expand its presence in the global smart device market. Bellabeat believes in leveraging smart device data to carve new pathways for growth and enhance their marketing strategy.
+🎯 Objective
+
+Analyze and gain insights from smart device data to guide marketing strategies and recommend actionable, data-driven decisions for scaling Bellabeat’s market presence and product reach.
