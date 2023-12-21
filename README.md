@@ -17,6 +17,8 @@ Bellabeat, a high-tech manufacturer of health-focused products for women, seeks 
 🌱 Bellabeat
 
 A flourishing company with the potential to expand its presence in the global smart device market. Bellabeat believes in leveraging smart device data to carve new pathways for growth and enhance their marketing strategy.
+
 🎯 Objective
+
 
 Analyze and gain insights from smart device data to guide marketing strategies and recommend actionable, data-driven decisions for scaling Bellabeat’s market presence and product reach.
